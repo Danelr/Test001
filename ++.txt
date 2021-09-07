@@ -1,4 +1,0 @@
-if(faim < 10)
-{
-manger++;
-}
